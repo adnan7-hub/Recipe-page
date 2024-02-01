@@ -81,7 +81,8 @@ ul {
     margin-bottom: 20px;
     border-bottom: 1px solid var(--Light-Grey);
 }
-.omelette-page .ingredient h4 {
+.omelette-page .ingredient h2 {
+    font-size: 22px;
     color: var(--color-Nutmeg);
     margin-bottom: 15px;
     font-family: 'Young Serif', serif!important;
@@ -109,7 +110,8 @@ ul {
     margin-bottom: 25px;
     border-bottom: 1px solid var(--Light-Grey);
 }
-.omelette-page .instructions h4 {
+.omelette-page .instructions h2 {
+    font-size: 22px;
     color: var(--color-Nutmeg);
     margin-bottom: 15px;
     font-family: 'Young Serif', serif!important;
@@ -152,7 +154,8 @@ ul {
 }
 /* end-structions */
 /* start-nutrition */
-.omelette-page .nutrition h4 {
+.omelette-page .nutrition h2 {
+    font-size: 22px;
     color: var(--color-Nutmeg);
     margin-bottom: 15px;
     font-family: 'Young Serif', serif!important;
